@@ -1,0 +1,5 @@
+ola mundo
+isto e um teste
+adeus
+42
+fim
